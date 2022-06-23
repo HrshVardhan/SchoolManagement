@@ -1,7 +1,7 @@
 # SchoolManagement
 #Adding a new Entity:
 By POST Method at:http://localhost:8080/createresource
-Adding a new teacher to the database
+Adding a new teacher to the database.
 input:
 {
     "firstName":"Bharti",
