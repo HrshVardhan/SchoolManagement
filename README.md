@@ -146,13 +146,13 @@ output:"Removed successfully!"
 
 ![image](https://user-images.githubusercontent.com/106802733/175225262-2f1a5f55-275d-43c0-9c1a-c7c7e35d8731.png)
 
-# Database connected to MySql:
+# Data connected to MySql Database:
 
 ![image](https://user-images.githubusercontent.com/106802733/175226424-cc145dae-313a-4be1-b709-aff625d8e8e2.png)
 
 
 
-# Database connected to MongoDb:
+# Data connected to MongoDb Database:
 
 ![image](https://user-images.githubusercontent.com/106802733/175225982-35eb224d-48f8-4dab-b013-6bbd2deb6118.png)
 
